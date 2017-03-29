@@ -1,0 +1,2 @@
+# cloudminer
+Docker Cloud Miner
